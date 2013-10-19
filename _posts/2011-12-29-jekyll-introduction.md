@@ -20,7 +20,7 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
 
-
+![My image](/assets/images/my-image-name.jpg)
 
 ### What does Jekyll Do?
 
